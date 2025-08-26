@@ -7,6 +7,9 @@ We are going to compare dollar cost averaging strategy of saving our money until
 
 ### <u>Required libraries</u>
 * yfinance
+* pandas
+* matplotlib
+* datetime
 
 </br>
 
@@ -14,4 +17,9 @@ We are going to compare dollar cost averaging strategy of saving our money until
 | Issue/Bug | Fixed Date |
 | --- | --- |
 | Dividends are not factored in. Current model does not count dividends as cash inflow, won't be reinvested. | TBD |
+
+## Next Steps
+* Fix Dividend
+* Change structure so that it's scalable, incorporate multiple dip threshold in dip buying strategy
+* create a slider for the variables to create charts and graphs. 
 
