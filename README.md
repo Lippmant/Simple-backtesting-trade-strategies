@@ -7,3 +7,11 @@ We are going to compare dollar cost averaging strategy of saving our money until
 
 ### <u>Required libraries</u>
 * yfinance
+
+</br>
+
+# Issues
+| Issue/Bug | Fixed Date |
+| --- | --- |
+| Dividends are not factored in. Current model does not count dividends as cash inflow, won't be reinvested. | TBD |
+
