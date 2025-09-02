@@ -22,4 +22,6 @@ We are going to compare dollar cost averaging strategy of saving our money until
 * Fix Dividend
 * Change structure so that it's scalable, incorporate multiple dip threshold in dip buying strategy
 * create a slider for the variables to create charts and graphs. 
+* Test the strategy for a period that involves a recession (the last 5 years has been stock boom, and may not be a good sample).
+
 
