@@ -27,7 +27,6 @@ We are going to compare dollar cost averaging strategy of saving our money until
         <tr> 
             <td>
             <ul><li>Dividends are not factored in. Current model does not count dividends as cash inflow, model does not reflect dividend reinvestment.
-            <p>
             <b>Fix</b>: The latest version of yfinance pulls adjusted prices (adjusted for dividends, stock split and other coproate actions). Thus, the analysis already factored in dividend reinvestment.</li></ul>
             </td>
             <td>
